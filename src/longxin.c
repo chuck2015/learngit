@@ -1,0 +1,4 @@
+void loogson_init()
+{
+
+}
